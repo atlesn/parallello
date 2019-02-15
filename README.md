@@ -16,4 +16,4 @@ Often, order of excecution is not important and tasks in a program may be split 
 ## When parallellism can take place
 - A function is called which has no side effects and we do not use its return value
 - A loop is run in which order doesn't matter
-- A function is to be called with two or more functions as argument, these are called simultaneously. This also goes for operators, while some languages treat operators as functions.
+- A function is to be called with two or more functions as arguments. These are called simultaneously. This also goes for operators (some languages treat operators as functions)
